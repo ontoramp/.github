@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ontoramp/.github/main/logo.png" width="96" alt="OntoRamp">
+</p>
 <h1 align="center">OntoRamp</h1>
 <p align="center"><strong>Governance integrity for agentic AI.</strong></p>
 <p align="center">
