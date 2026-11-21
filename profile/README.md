@@ -35,7 +35,7 @@ authenticate, discover, and call them directly — not just people at a keyboard
 | Server | What it does |
 |---|---|
 | [**graph-query**](https://github.com/ontoramp/ontoramp-graph-query) | Query an organization's architecture and governance constraints from any agent, with evidence chains |
-| [**decision-intelligence**](https://github.com/ontoramp/ontoramp-decision-intelligence) | Log, evaluate, and ground consequential AI-assisted decisions against an authority graph |
+| [**decision-intelligence**](https://github.com/ontoramp/ontoramp-decision-intelligence) | Log, evaluate, and ground consequential AI-assisted decisions against an authority context |
 | [**knowledge-cartographer**](https://github.com/ontoramp/ontoramp-knowledge-cartographer) | Ingest documents into a governed knowledge graph; returns coverage maps and knowledge-health scores |
 
 Each is a hosted, remote MCP server — nothing to install locally. A free developer tier is
@@ -60,7 +60,7 @@ Released under the **MIT License**, © 2026 OntoRamp LLC.
 ## About
 
 OntoRamp LLC is a bootstrapped company founded in 2026, headquartered in Cheyenne,
-Wyoming, United States. Revenue-generating since June 2026.
+Wyoming, United States.
 
 Patent pending.
 
